@@ -38,6 +38,6 @@ screenshots folder available output
 
 📈 Conclusion :
 
-The Logistic Regression model successfully classified all     flower species with perfect accuracy on the test dataset.
+The Logistic Regression model successfully classified all flower species with perfect accuracy on the test dataset.
 
 This demonstrates that the IRIS dataset is linearly separable and well-suited for classification algorithms.
